@@ -7,6 +7,7 @@ module.exports = {
   plugins: [
     new Html()
   ],
+  devtool: false,
   experiments: {
     css: true,
   }
